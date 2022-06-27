@@ -1,0 +1,57 @@
+.App {
+    font-family:"McLaren",cursive;
+    text-align: center;
+  }
+  header {
+    background-color: #f5ba13;
+    margin:auto -16px;
+    padding: 3px 32px;
+    margin-top: 0;
+    box-shadow:  10px 0= rgba(0, 0, 0, 0.3);   
+  }
+  header h1{
+    color: #fff;
+    font-weight: 200;
+    font-family:"McLaren",cursive;
+  
+  }
+  footer{
+    text-align: center;
+    justify-content: center;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    font-family:"McLaren",cursive;
+    /*  */
+  }
+  
+  footer p{
+      color:#ccc
+  }
+  .div{
+    /* background-color: #cccccc; */
+    width:100%;
+    height: auto;
+    
+    
+  }
+  .sub-div{
+    display:flex;
+    justify-content: space-around;
+  }
+  .note{
+    font-family: "McLaren",cursive;
+    background-color: #fff;
+    box-shadow: 4px 2px #ccc;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin: 20px 0;
+    width: 200px;
+    padding: 4px;
+    
+  
+  }
+  .note h2{
+    font-size: 1.2rem;
+  }
