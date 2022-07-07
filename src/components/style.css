@@ -4,16 +4,18 @@
   }
   header {
     background-color: #f5ba13;
-    margin:auto -16px;
+    margin:-8px -16px 0 -8px  ;
+    
     padding: 3px 32px;
-    margin-top: 0;
+    
+    width: auto;
     box-shadow:  10px 0= rgba(0, 0, 0, 0.3);   
   }
   header h1{
     color: #fff;
     font-weight: 200;
     font-family:"McLaren",cursive;
-  
+    
   }
   footer{
     text-align: center;
@@ -38,7 +40,8 @@
   }
   .sub-div{
     display:flex;
-    justify-content: space-around;
+    margin: 10px;
+    
   }
   .note{
     font-family: "McLaren",cursive;
@@ -46,8 +49,8 @@
     box-shadow: 4px 2px #ccc;
     border: 2px solid #ccc;
     border-radius: 4px;
-    margin: 20px 0;
-    width: 200px;
+    margin: 20px;
+    width: auto ;
     padding: 4px;
     
   

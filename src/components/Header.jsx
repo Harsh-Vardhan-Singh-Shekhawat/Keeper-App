@@ -4,5 +4,5 @@ import "./style.css";
 
 export default function Header(){
 
-    return <header><h1>Keeper</h1></header>;
+    return <header><h1>Keeper - "A Book Reviewer"</h1></header>;
     }
